@@ -1,3 +1,7 @@
+# System Architecture Overview
+
+![Image of system architecture overview](System_Architecture_Overview.png)
+
 # makepython_ultrasensors
 
 The IOT_Project folder are NOT IN ANY WAY used in the final code. Rather, the folder contains the iterations and tests to ensure each component of the final code is working properly.
